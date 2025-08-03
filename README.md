@@ -50,8 +50,4 @@ python predict.py --image path_to_image.jpg
 
 MIT
 
-```
 
----
-
-Short, sweet, and functional. Let me know if you want it to be a little more “startup pitch” or “project report” style later 😎
